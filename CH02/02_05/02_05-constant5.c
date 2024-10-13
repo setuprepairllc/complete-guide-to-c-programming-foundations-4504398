@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MAX 20
+#define MAX 80
 
 /* generate a line */
 void line(int v)

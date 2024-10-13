@@ -4,7 +4,7 @@ int main()
 {
 	float x;
 
-	printf("The value of %f is unknown\n",x);
+	printf("The value of %c is unknown\n", x);
 
-	return(0);
+	return (0);
 }

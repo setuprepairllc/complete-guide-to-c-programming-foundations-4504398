@@ -6,7 +6,7 @@ int main()
 	time_t now;
 
 	time(&now);
-	printf("%s",ctime(&now));
+	printf("%s", ctime(&now));
 
-	return(0);
+	return (0);
 }
